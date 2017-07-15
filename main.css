@@ -15,6 +15,7 @@ footer .row {
 
 header h1 {
   font-weight: 700;
+  color: #E33;
   margin: 0;
 }
 
@@ -31,7 +32,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-image: url("jumbocramb.jpg");
   background-size: cover;
   color: #ffffff;
   height: 500px;
